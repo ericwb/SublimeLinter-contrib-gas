@@ -3,7 +3,7 @@ SublimeLinter-contrib-gas
 
 [![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-gas.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-gas)
 
-This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [__linter__](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
+This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [GAS](https://github.com/GoASTScanner/gas). It will be used with files that have the “Go” syntax.
 
 ## Installation
 SublimeLinter must be installed in order to use this plugin. 
